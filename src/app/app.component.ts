@@ -10,6 +10,7 @@ export class AppComponent {
   title = 'model';
   display = false;
 
-  showDialog() {
-    this.display = true;
+    showDialog() {
+      this.display = true;
+  }
 }
